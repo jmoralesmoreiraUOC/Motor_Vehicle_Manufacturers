@@ -2,7 +2,7 @@
 
 # Máster Universitario en Ciencia de datos (data science)
 
-# Practica 1
+# Práctica 1
 
 Integrantes:
 •	Morales Moreira Julio

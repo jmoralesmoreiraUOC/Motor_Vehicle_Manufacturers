@@ -17,5 +17,7 @@
  3.- Una carpeta "dataset" que cotiene el dataset en formato csv.
  
 
-El Doi del Zenodo del dataset generado es el siguiente:
+# DOI
+
+# ZENODO
 

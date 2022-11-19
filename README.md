@@ -6,6 +6,7 @@
 
 # Integrantes:
 •	Morales Moreira Julio
+
 •	Mejía Borja Alexiss
 
 El repositorio contiene los siguientes archivos

@@ -4,7 +4,7 @@
 
 # Práctica 1
 
-Integrantes:
+# Integrantes:
 •	Morales Moreira Julio
 •	Mejía Borja Alexiss
 
